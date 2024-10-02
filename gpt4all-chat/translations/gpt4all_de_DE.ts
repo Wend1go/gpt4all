@@ -603,12 +603,12 @@
         <location filename="../src/chat.cpp" line="25"/>
         <location filename="../src/chat.h" line="72"/>
         <source>New Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Chat</translation>
     </message>
     <message>
         <location filename="../src/chat.cpp" line="38"/>
         <source>Server Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Server Chat</translation>
     </message>
 </context>
 <context>
@@ -616,12 +616,12 @@
     <message>
         <location filename="../src/chatapi.cpp" line="230"/>
         <source>ERROR: Network error occurred while connecting to the API server</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Beim Aufbau der Verbindung zum API Server ist ein Netzwerk-Fehler aufgetreten.</translation>
     </message>
     <message>
         <location filename="../src/chatapi.cpp" line="243"/>
         <source>ChatAPIWorker::handleFinished got HTTP Error %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ChatAPIWorker::handleFinished verursachte HTTP Error %1 %2</translation>
     </message>
 </context>
 <context>
@@ -629,62 +629,62 @@
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="37"/>
         <source>Drawer</source>
-        <translation type="unfinished"></translation>
+        <translation>Drawer</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="38"/>
         <source>Main navigation drawer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptnavigations Drawer</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="49"/>
         <source>＋ New Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>＋ Neuer Chat</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="50"/>
         <source>Create a new chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Einen neuen Chat starten</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="199"/>
         <source>Select the current chat or edit the chat when in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Im Edit Modus den aktuellen Chat auswählen oder editieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="216"/>
         <source>Edit chat name</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Namen editieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="229"/>
         <source>Save chat name</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Namen speichern</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="246"/>
         <source>Delete chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat löschen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="283"/>
         <source>Confirm chat deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Löschung bestätigen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="305"/>
         <source>Cancel chat deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Löschung abbrechen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="317"/>
         <source>List of chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Liste</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatDrawer.qml" line="318"/>
         <source>List of chats in the drawer dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste von Chats im Drawer-Dialogfenster</translation>
     </message>
 </context>
 <context>
