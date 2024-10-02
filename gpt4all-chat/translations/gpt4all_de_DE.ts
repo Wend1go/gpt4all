@@ -358,243 +358,243 @@
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="16"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendung</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="25"/>
         <source>Network dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerkdialog</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="26"/>
         <source>opt-in to share feedback/conversations</source>
-        <translation type="unfinished"></translation>
+        <translation>Einverständnis Feedback/Unterhaltungen zu teilen</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="48"/>
         <source>Error dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler Dialog</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="72"/>
         <source>Application Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungseinstellungen</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="85"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="97"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Theme</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="98"/>
         <source>The application color scheme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungs Farbschema</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="113"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="112"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Hell</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="39"/>
         <source>ERROR: Update system could not find the MaintenanceTool used to check for updates!&lt;br/&gt;&lt;br/&gt;Did you install this application using the online installer? If so, the MaintenanceTool executable should be located one directory above where this application resides on your filesystem.&lt;br/&gt;&lt;br/&gt;If you can&apos;t start it manually, then I&apos;m afraid you&apos;ll have to reinstall.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Das Update-System konnte das MaintenanceTool für die Update Prüfung nicht finden!&lt;br/&gt;&lt;br/&gt;Haben Sie diese Anwendung über den Online Installer installiert? Falls ja, sollte sich das MaintenanceTool eine Verzeichnisebene über dieser Anwendung im Dateisystem befinden.&lt;br/&gt;&lt;br/&gt;Falls Sie es nicht manuell starten können, müssen Sie es leider erneut installieren.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="114"/>
         <source>LegacyDark</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Dunkel</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="136"/>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftgröße</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="137"/>
         <source>The size of text in the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Größe des Texts innerhalb der Anwendung.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="151"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Klein</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="152"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittel</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="153"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>Groß</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="176"/>
         <source>Language and Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache und Gebietsschema</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="177"/>
         <source>The language and locale you wish to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Sprache und das zu verwendende Gebietsschema, welches benutzt werden soll.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="196"/>
         <source>System Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>System Gebiestsschema</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="223"/>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerät</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="224"/>
         <source>The compute device used for text generation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Gerät, welches für die Text generierung verwendet werden soll.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="242"/>
         <location filename="../src/qml/ApplicationSettings.qml" line="297"/>
         <source>Application default</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungs Standard</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="275"/>
         <source>Default Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard Modell</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="276"/>
         <source>The preferred model for new chats. Also used as the local server fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das bevorzugte Modell für neue Chats. Wird auch als lokaler Server-Fallback verwendet.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="339"/>
         <source>Suggestion Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschlags Modus</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="340"/>
         <source>Generate suggested follow-up questions at the end of responses.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorgeschlagene Nachfolgefragen am Ende der Antwort generieren.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="353"/>
         <source>When chatting with LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Chatten mit LocalDocs</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="354"/>
         <source>Whenever possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Wann immer möglich</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="355"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="368"/>
         <source>Download Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Download Pfad</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="369"/>
         <source>Where to store local models and the LocalDocs database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Speicherort für lokale Modelle und die LocalDocs Datenbank.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="398"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchsuchen</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="399"/>
         <source>Choose where to save model files</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswählen, wo Modell Dateien abgelegt werden sollen</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="410"/>
         <source>Enable Datalake</source>
-        <translation type="unfinished"></translation>
+        <translation>Datalake Aktivieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="411"/>
         <source>Send chats and feedback to the GPT4All Open-Source Datalake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chats und Feedback an das GPT4All Open-Source Datalake senden.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="444"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="456"/>
         <source>CPU Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU Threads</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="457"/>
         <source>The number of CPU threads used for inference and embedding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl an CPU Threads für Inference und Embeddings.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="488"/>
         <source>Save Chat Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Kontext speichern</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="489"/>
         <source>Save the chat model&apos;s state to disk for faster loading. WARNING: Uses ~2GB per chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den Chat-Modell Status auf das Dateisystem schreiben um schneller zu Laden. Warnung: Benötigt ~2GB pro Chat.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="505"/>
         <source>Enable Local API Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Local API Server aktivieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="506"/>
         <source>Expose an OpenAI-Compatible server to localhost. WARNING: Results in increased resource usage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Localhost einem OpenAI-kompatiblen Server zugänglich machen. Warnung: Erzeugt erhöhte Ressourcenlast.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="522"/>
         <source>API Server Port</source>
-        <translation type="unfinished"></translation>
+        <translation>API Server Port</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="523"/>
         <source>The port to use for the local server. Requires restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Port für den lokalen Server. Erfordert Neustart.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="575"/>
         <source>Check For Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf Updates prüfen</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="576"/>
         <source>Manually check for an update to GPT4All.</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuell auf ein Update für GPT4All prüfen.</translation>
     </message>
     <message>
         <location filename="../src/qml/ApplicationSettings.qml" line="585"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Updates</translation>
     </message>
 </context>
 <context>
