@@ -725,329 +725,329 @@
     <message>
         <location filename="../src/qml/ChatView.qml" line="77"/>
         <source>&lt;h3&gt;Warning&lt;/h3&gt;&lt;p&gt;%1&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>>&lt;h3&gt;Warnung&lt;/h3&gt;&lt;p&gt;%1&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="86"/>
         <source>Switch model dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell Auswahldialog</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="87"/>
         <source>Warn the user if they switch models, then context will be erased</source>
-        <translation type="unfinished"></translation>
+        <translation>Den User warnen wenn er das Modell wechselt, der Kontext wird anschließend gelöscht</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="94"/>
         <source>Conversation copied to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterhaltung wurde in die Zwischenablage kopiert.</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="101"/>
         <source>Code copied to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Code wurde in die Zwischenablage kopiert.</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="231"/>
         <source>Chat panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Panel</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="232"/>
         <source>Chat panel with options</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Panel mit Optionen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="339"/>
         <source>Reload the currently loaded model</source>
-        <translation type="unfinished"></translation>
+        <translation>Das aktuelle Modell neu laden</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="353"/>
         <source>Eject the currently loaded model</source>
-        <translation type="unfinished"></translation>
+        <translation>Das geladene Modell auswerfen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="365"/>
         <source>No model installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Modell installiert.</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="367"/>
         <source>Model loading error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim laden des Modells.</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="369"/>
         <source>Waiting for model...</source>
-        <translation type="unfinished"></translation>
+        <translation>Warte auf das Modell...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="371"/>
         <source>Switching context...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tausche Kontext...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="373"/>
         <source>Choose a model...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellauswahl...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="375"/>
         <source>Not found: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht gefunden: %1</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="463"/>
         <source>The top item is the current model</source>
-        <translation type="unfinished"></translation>
+        <translation>Das oberste Element ist das aktuelle Modell</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="549"/>
         <location filename="../src/qml/ChatView.qml" line="1313"/>
         <source>LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="567"/>
         <source>Add documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente hinzufügen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="568"/>
         <source>add collections of documents to the chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument-Sammlungen dem Chat hinzufügen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="738"/>
         <source>Load the default model</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Standard-Modell laden</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="739"/>
         <source>Loads the default model which can be changed in settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Läd das Standard-Modell, welches in den Optionen geändert werden kann</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="750"/>
         <source>No Model Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Modell installiert</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="759"/>
         <source>GPT4All requires that you install at least one
 model to get started</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT4All benötigt mindestens ein installiertes Modell um zu beginnen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="771"/>
         <source>Install a Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Modell installieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="776"/>
         <source>Shows the add model view</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeigt die Modell Hinzufügen Ansicht</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="801"/>
         <source>Conversation with the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Konversation mit dem Modell</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="802"/>
         <source>prompt / response pairs from the conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe / Antwort Paare aus dieser Konversation</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="854"/>
         <source>GPT4All</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT4All</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="854"/>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Du</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="878"/>
         <source>response stopped ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwort gestoppt ...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="881"/>
         <source>processing ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitung ...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="882"/>
         <source>generating response ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwort wird generiert ...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="883"/>
         <source>generating questions ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fragen werden generiert ...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="949"/>
         <location filename="../src/qml/ChatView.qml" line="1905"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="955"/>
         <source>Copy Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachricht kopieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="965"/>
         <source>Disable markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown deaktivieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="965"/>
         <source>Enable markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown aktivieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1055"/>
         <source>Thumbs up</source>
-        <translation type="unfinished"></translation>
+        <translation>Daumen hoch</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1056"/>
         <source>Gives a thumbs up to the response</source>
-        <translation type="unfinished"></translation>
+        <translation>Gib der Antwort einen Daumen hoch</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1089"/>
         <source>Thumbs down</source>
-        <translation type="unfinished"></translation>
+        <translation>Daumen runter</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1090"/>
         <source>Opens thumbs down dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnet den Daumen runter Dialog</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/qml/ChatView.qml" line="1145"/>
         <source>%n Source(s)</source>
         <translation>
-            <numerusform>%n Source</numerusform>
-            <numerusform>%n Sources</numerusform>
+            <numerusform>%n Quelle</numerusform>
+            <numerusform>%n Quellen</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1389"/>
         <source>Suggested follow-ups</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorgeschlage Fortsetzungen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1665"/>
         <source>Erase and reset chat session</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Session löschen und zurücksetzen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1686"/>
         <source>Copy chat session to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat Sitzung in die Zwischenablage kopieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1712"/>
         <source>Redo last chat response</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Chat-Antwort wiederherstellen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1961"/>
         <source>Stop generating</source>
-        <translation type="unfinished"></translation>
+        <translation>Generierung stoppen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1962"/>
         <source>Stop the current response generation</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppe die aktuelle Antwort-Generierung</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1777"/>
         <source>Reloads the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Läd das aktuelle Modell erneut</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="58"/>
         <source>&lt;h3&gt;Encountered an error loading model:&lt;/h3&gt;&lt;br&gt;&lt;i&gt;&quot;%1&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Model loading failures can happen for a variety of reasons, but the most common causes include a bad file format, an incomplete or corrupted download, the wrong file type, not enough system RAM or an incompatible model type. Here are some suggestions for resolving the problem:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Ensure the model file has a compatible format and type&lt;li&gt;Check the model file is complete in the download folder&lt;li&gt;You can find the download folder in the settings dialog&lt;li&gt;If you&apos;ve sideloaded the model ensure the file is not corrupt by checking md5sum&lt;li&gt;Read more about what models are supported in our &lt;a href=&quot;https://docs.gpt4all.io/&quot;&gt;documentation&lt;/a&gt; for the gui&lt;li&gt;Check out our &lt;a href=&quot;https://discord.gg/4M2QFmTt2k&quot;&gt;discord channel&lt;/a&gt; for help</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Beim Laden des Modells ist ein Fehler aufgetreten:&lt;/h3&gt;&lt;br&gt;&lt;i&gt;&quot;%1&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Fehler beim Laden von Modellen können verschiedene Ursachen haben, die Häufigsten sind ein falsches Dateiformat, ein unvollständiger oder beschädigter Download, der falsche Dateityp, nicht genut Arbeitspeicher oder ein inkompatibler Modell-Typ. Hier sind einige Vorschläge um das Problem zu lösen:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Stellen sie sicher, dass das Modell im richtigen Format und Typ vorliegt&lt;li&gt;Prüfen sie ob die Modell-Datei im Download Verzeichnis komplett ist&lt;li&gt;Sie können das Download Verzeichnis im Options Dialog finden&lt;li&gt;Wenn sie das Modell via Sideload geladen haben stellen sie durch einen md5sum Check sicher, dass die Datei nicht beschädigt wurde&lt;li&gt;Lesen sie mehr darüber welche Modelle unterstützt werden in unserer &lt;a href=&quot;https://docs.gpt4all.io/&quot;&gt;Dokumentation&lt;/a&gt;Für Hilfe bezüglich der GUI, schauen sie sich unseren &lt;a href=&quot;https://discord.gg/4M2QFmTt2k&quot;&gt;Discord-Kanal&lt;/a&gt; an</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="377"/>
         <location filename="../src/qml/ChatView.qml" line="1775"/>
         <source>Reload · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>· %1 neu laden</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="379"/>
         <source>Loading · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lade · %1</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="714"/>
         <source>Load · %1 (default) →</source>
-        <translation type="unfinished"></translation>
+        <translation>Lade · %1 (Standard) →</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="876"/>
         <source>restoring from text ...</source>
-        <translation type="unfinished"></translation>
+        <translation>wiederherstellen aus Text ...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="879"/>
         <source>retrieving localdocs: %1 ...</source>
-        <translation type="unfinished"></translation>
+        <translation>localdocs abrufen: %1 ...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="880"/>
         <source>searching localdocs: %1 ...</source>
-        <translation type="unfinished"></translation>
+        <translation>localdocs durchsuchen: %1 ...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1851"/>
         <source>Send a message...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Nachricht senden...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1851"/>
         <source>Load a model to continue...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Modell laden um fortzufahren...</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1854"/>
         <source>Send messages/prompts to the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachrichten/Eingaben an das Modell senden</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1899"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausschneiden</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1911"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1915"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles Markieren</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1985"/>
         <source>Send message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachricht senden</translation>
     </message>
     <message>
         <location filename="../src/qml/ChatView.qml" line="1986"/>
         <source>Sends the message/prompt contained in textfield to the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Sendet die Nachricht/Eingabe im Textfeld an das Modell</translation>
     </message>
 </context>
 <context>
