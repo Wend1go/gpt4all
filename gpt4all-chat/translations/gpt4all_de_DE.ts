@@ -692,32 +692,32 @@
     <message>
         <location filename="../src/chatlistmodel.h" line="86"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>HEUTE</translation>
     </message>
     <message>
         <location filename="../src/chatlistmodel.h" line="88"/>
         <source>THIS WEEK</source>
-        <translation type="unfinished"></translation>
+        <translation>DIESE WOCHE</translation>
     </message>
     <message>
         <location filename="../src/chatlistmodel.h" line="90"/>
         <source>THIS MONTH</source>
-        <translation type="unfinished"></translation>
+        <translation>DIESER MONAT</translation>
     </message>
     <message>
         <location filename="../src/chatlistmodel.h" line="92"/>
         <source>LAST SIX MONTHS</source>
-        <translation type="unfinished"></translation>
+        <translation>LETZTE SECHS MONATE</translation>
     </message>
     <message>
         <location filename="../src/chatlistmodel.h" line="94"/>
         <source>THIS YEAR</source>
-        <translation type="unfinished"></translation>
+        <translation>DIESES JAHR</translation>
     </message>
     <message>
         <location filename="../src/chatlistmodel.h" line="96"/>
         <source>LAST YEAR</source>
-        <translation type="unfinished"></translation>
+        <translation>LETZTES JAHR</translation>
     </message>
 </context>
 <context>
