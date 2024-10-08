@@ -1343,153 +1343,153 @@ model to get started</source>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="52"/>
         <source>LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="58"/>
         <source>Chat with your local files</source>
-        <translation type="unfinished"></translation>
+        <translation>Über lokale Dateien Chatten</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="71"/>
         <source>＋ Add Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>＋ Sammlung hinzufügen</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="85"/>
         <source>&lt;h3&gt;ERROR: The LocalDocs database cannot be accessed or is not valid.&lt;/h3&gt;&lt;br&gt;&lt;i&gt;Note: You will need to restart after trying any of the following suggested fixes.&lt;/i&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Make sure that the folder set as &lt;b&gt;Download Path&lt;/b&gt; exists on the file system.&lt;/li&gt;&lt;li&gt;Check ownership as well as read and write permissions of the &lt;b&gt;Download Path&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;If there is a &lt;b&gt;localdocs_v2.db&lt;/b&gt; file, check its ownership and read/write permissions, too.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;If the problem persists and there are any &apos;localdocs_v*.db&apos; files present, as a last resort you can&lt;br&gt;try backing them up and removing them. You will have to recreate your collections, however.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;FEHLER: Auf die LocalDocs Datenbank kann nicht zugegriffen werden oder sie ist ungültig.&lt;/h3&gt;&lt;br&gt;&lt;i&gt;Hinweis: Nach dem Versuch eine der folgenden Fehlerbehebungen durchzuführen ist ein Neustart erforderlich.&lt;/i&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Stellen Sie sicher, dass der als &lt;b&gt;Download-Pfad&lt;/b&gt; festgelegte Ordner im Dateisystem vorhanden ist.&lt;/li&gt;&lt;li&gt;Überprüfen Sie den Besitz sowie die Lese- und Schreibberechtigungen des &lt;b&gt;Download-Pfads&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;Wenn eine Datei &lt;b&gt;localdocs_v2.db&lt;/b&gt; vorhanden ist, überprüfen Sie auch deren Besitz und Lese-/Schreibberechtigungen.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Wenn das Problem weiterhin besteht und &apos;localdocs_v*.db&apos; Dateien vorhanden sind, können Sie als letzten Ausweg versuchen, sie zu sichern und zu entfernen. Sie müssen Ihre Sammlungen dann jedoch neu erstellen.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="109"/>
         <source>No Collections Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Sammlungen eingerichtet</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="118"/>
         <source>Install a collection of local documents to get started using this feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Sammlung von lokalen Dokumenten erstellen um diese Funktion zu nutzen</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="129"/>
         <source>＋ Add Doc Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>＋ Dokument Sammlung erstellen</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="134"/>
         <source>Shows the add model view</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeigt die Modell hinzufügen Ansicht</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="231"/>
         <source>Indexing progressBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexierungs progressBar</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="232"/>
         <source>Shows the progress made in the indexing</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeigt den Fortschritt der Indexierung</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="257"/>
         <source>ERROR</source>
-        <translation type="unfinished"></translation>
+        <translation>FEHLER</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="261"/>
         <source>INDEXING</source>
-        <translation type="unfinished"></translation>
+        <translation>INDEXIEREN</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="265"/>
         <source>EMBEDDING</source>
-        <translation type="unfinished"></translation>
+        <translation>EINBETTEN</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="268"/>
         <source>REQUIRES UPDATE</source>
-        <translation type="unfinished"></translation>
+        <translation>AKTUALISIERUNG ERFORDERLICH</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="271"/>
         <source>READY</source>
-        <translation type="unfinished"></translation>
+        <translation>FERTIG</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="273"/>
         <source>INSTALLING</source>
-        <translation type="unfinished"></translation>
+        <translation>INSTALLIEREN</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="300"/>
         <source>Indexing in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexierung im Gange</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="303"/>
         <source>Embedding in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Embedding im Gange</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="306"/>
         <source>This collection requires an update after version change</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Sammlung erfordert eine Aktualisierung nach der Versionsänderung</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="309"/>
         <source>Automatically reindexes upon changes to the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexiert automatisch erneut nach dem Anpassen des Verzeichnisses</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="311"/>
         <source>Installation in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation wird durchgeführt</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="325"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/qml/LocalDocsView.qml" line="337"/>
         <source>%n file(s)</source>
         <translation>
-            <numerusform>%n file</numerusform>
-            <numerusform>%n files</numerusform>
+            <numerusform>%n Datei</numerusform>
+            <numerusform>%n Dateien</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/qml/LocalDocsView.qml" line="337"/>
         <source>%n word(s)</source>
         <translation>
-            <numerusform>%n word</numerusform>
-            <numerusform>%n words</numerusform>
+            <numerusform>%n Wort</numerusform>
+            <numerusform>%n Wörter</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="408"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="420"/>
         <source>Rebuild</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuaufbau</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="423"/>
         <source>Reindex this folder from scratch. This is slow and usually not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Verzeichnis erneut Indexieren. Dies ist langsam und normalerweise nicht notwendig.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="430"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsView.qml" line="433"/>
         <source>Update the collection to the new version. This is a slow operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Sammlung auf die neue Version aktualisieren. Dies ist eine langsame Operation.</translation>
     </message>
 </context>
 <context>
