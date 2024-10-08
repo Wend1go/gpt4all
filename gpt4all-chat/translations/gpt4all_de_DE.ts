@@ -1055,38 +1055,38 @@ model to get started</source>
     <message>
         <location filename="../src/qml/CollectionsDrawer.qml" line="70"/>
         <source>Warning: searching collections while indexing can return incomplete results</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnung: Die Sammlungen während des Indexierens zu durchsuchen kann zu unvollständigen Ergebnissen führen</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/qml/CollectionsDrawer.qml" line="87"/>
         <source>%n file(s)</source>
         <translation>
-            <numerusform>%n file</numerusform>
-            <numerusform>%n files</numerusform>
+            <numerusform>%n Datei</numerusform>
+            <numerusform>%n Dateien</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/qml/CollectionsDrawer.qml" line="87"/>
         <source>%n word(s)</source>
         <translation>
-            <numerusform>%n word</numerusform>
-            <numerusform>%n words</numerusform>
+            <numerusform>%n Wort</numerusform>
+            <numerusform>%n Wörter</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/qml/CollectionsDrawer.qml" line="103"/>
         <source>Updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisiere</translation>
     </message>
     <message>
         <location filename="../src/qml/CollectionsDrawer.qml" line="128"/>
         <source>＋ Add Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>＋ Dokumente hinzufügen</translation>
     </message>
     <message>
         <location filename="../src/qml/CollectionsDrawer.qml" line="137"/>
         <source>Select a collection to make it available to the chat model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Sammlung auswählen um sie dem Chat Modell zur Verfügung zu stellen.</translation>
     </message>
 </context>
 <context>
