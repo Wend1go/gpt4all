@@ -1094,37 +1094,37 @@ model to get started</source>
     <message>
         <location filename="../src/download.cpp" line="278"/>
         <source>Model &quot;%1&quot; is installed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell &quot;%1&quot; wurde erfolgreich installiert.</translation>
     </message>
     <message>
         <location filename="../src/download.cpp" line="288"/>
         <source>ERROR: $MODEL_NAME is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>FEHLER: $MODEL_NAME ist leer.</translation>
     </message>
     <message>
         <location filename="../src/download.cpp" line="294"/>
         <source>ERROR: $API_KEY is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>FEHLER: $API_KEY ist leer.</translation>
     </message>
     <message>
         <location filename="../src/download.cpp" line="300"/>
         <source>ERROR: $BASE_URL is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>FEHLER: $BASE_URL ist ungültig.</translation>
     </message>
     <message>
         <location filename="../src/download.cpp" line="306"/>
         <source>ERROR: Model &quot;%1 (%2)&quot; is conflict.</source>
-        <translation type="unfinished"></translation>
+        <translation>FEHLER: Modell &quot;%1 (%2)&quot; steht in Konflikt.</translation>
     </message>
     <message>
         <location filename="../src/download.cpp" line="325"/>
         <source>Model &quot;%1 (%2)&quot; is installed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell &quot;%1 (%2)&quot; wurde erfolgreich installiert.</translation>
     </message>
     <message>
         <location filename="../src/download.cpp" line="349"/>
         <source>Model &quot;%1&quot; is removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell &quot;%1&quot; wurde entfernt.</translation>
     </message>
 </context>
 <context>
