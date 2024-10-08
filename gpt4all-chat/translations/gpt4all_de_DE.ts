@@ -1132,92 +1132,92 @@ model to get started</source>
     <message>
         <location filename="../src/qml/HomeView.qml" line="49"/>
         <source>Welcome to GPT4All</source>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen bei GPT4All</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="56"/>
         <source>The privacy-first LLM chat application</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Privatsphäre zuerst LLM Chat Anwendung</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="66"/>
         <source>Start chatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterhaltung starten</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="81"/>
         <source>Start Chatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterhaltung starten</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="82"/>
         <source>Chat with any LLM</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit einem beliebigen LLM Chatten</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="92"/>
         <source>LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="93"/>
         <source>Chat with your local files</source>
-        <translation type="unfinished"></translation>
+        <translation>Über lokale Dateien Chatten</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="103"/>
         <source>Find Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell finden</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="104"/>
         <source>Explore and download models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelle entdecken und herunterladen</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="190"/>
         <source>Latest news</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuigkeiten</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="191"/>
         <source>Latest news from GPT4All</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuigkeiten von GPT4All</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="222"/>
         <source>Release Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Veröffentlichungshinweise</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="228"/>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentation</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="234"/>
         <source>Discord</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="240"/>
         <source>X (Twitter)</source>
-        <translation type="unfinished"></translation>
+        <translation>X (Twitter)</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="246"/>
         <source>Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Github</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="257"/>
         <source>nomic.ai</source>
-        <translation type="unfinished"></translation>
+        <translation>nomic.ai</translation>
     </message>
     <message>
         <location filename="../src/qml/HomeView.qml" line="282"/>
         <source>Subscribe to Newsletter</source>
-        <translation type="unfinished"></translation>
+        <translation>Newsletter abonnieren</translation>
     </message>
 </context>
 <context>
