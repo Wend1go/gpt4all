@@ -1225,117 +1225,117 @@ model to get started</source>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="19"/>
         <source>LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="29"/>
         <source>LocalDocs Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs Einstellungen</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="38"/>
         <source>Indexing</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexierung</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="51"/>
         <source>Allowed File Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Erlaubte Dateiendungen</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="52"/>
         <source>Comma-separated list. LocalDocs will only attempt to process files with these extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komma-separierte Liste. LocalDocs wird ausschließlich Dateien mit diesen Endungen verarbeiten.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="100"/>
         <source>Embedding</source>
-        <translation type="unfinished"></translation>
+        <translation>Embedding</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="112"/>
         <source>Use Nomic Embed API</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomic Embed API verwenden</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="113"/>
         <source>Embed documents using the fast Nomic API instead of a private local model. Requires restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente mit der schnellen Nomic API anstelle eines privaten Modells einbetten. Erfordert Neustart.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="130"/>
         <source>Nomic API Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomic API Key</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="131"/>
         <source>API key to use for Nomic Embed. Get one from the Atlas &lt;a href=&quot;https://atlas.nomic.ai/cli-login&quot;&gt;API keys page&lt;/a&gt;. Requires restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>API Key für Nomic Embed. Erhältlich bei Atlas &lt;a href=&quot;https://atlas.nomic.ai/cli-login&quot;&gt;API keys &lt;/a&gt;. Erfordert Neustart.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="165"/>
         <source>Embeddings Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Embeddings Gerät</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="166"/>
         <source>The compute device used for embeddings. Requires restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das für Embeddings zu nutzende Gerät. Erfordert Neustart.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="176"/>
         <source>Application default</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungs Standard</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="210"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeige</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="223"/>
         <source>Show Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>Quellen anzeigen</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="224"/>
         <source>Display the sources used for each response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Für jede Antwort die verwendeten Quellen anzeigen.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="241"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="257"/>
         <source>Warning: Advanced usage only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnung: Nur für fortgeschrittene Benutzer.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="258"/>
         <source>Values too large may cause localdocs failure, extremely slow responses or failure to respond at all. Roughly speaking, the {N chars x N snippets} are added to the model&apos;s context window. More info &lt;a href=&quot;https://docs.gpt4all.io/gpt4all_desktop/localdocs.html&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu große Werte können zu Fehlern bei LocalDocs führen, die Antworten stark verzögern oder eine Antwort komplett verhindern. Grob gesagt, die {N chars x N snippets} werden dem Context Window des Modells hinzugefügt. Genauere Informationen &lt;a href=&quot;https://docs.gpt4all.io/gpt4all_desktop/localdocs.html&quot;&gt;hier&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="266"/>
         <source>Document snippet size (characters)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenten Snippet Größe (Zeichen)</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="267"/>
         <source>Number of characters per document snippet. Larger numbers increase likelihood of factual responses, but also result in slower generation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl Zeichen pro Dokumenten Snippet. Größere Zahlen erhöhen die Wahrscheinlichkeit sachlicher Antworten, führen aber auch zu einer langsameren Generierung.</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="292"/>
         <source>Max document snippets per prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Anzahl Dokumenten Snippets pro Eingabe</translation>
     </message>
     <message>
         <location filename="../src/qml/LocalDocsSettings.qml" line="293"/>
         <source>Max best N matches of retrieved document snippets to add to the context for prompt. Larger numbers increase likelihood of factual responses, but also result in slower generation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Anzahl der besten N Übereinstimmungen abgerufener Dokumenten Snippets, die dem Kontext der Eingabe hinzugefügt werden sollen. Größere Zahlen erhöhen die Wahrscheinlichkeit sachlicher Antworten, führen aber auch zu einer langsameren Generierung.</translation>
     </message>
 </context>
 <context>
